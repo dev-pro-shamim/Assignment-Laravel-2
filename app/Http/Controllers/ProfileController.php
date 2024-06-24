@@ -10,7 +10,7 @@ use Illuminate\Http\Response;
 
 class ProfileController extends Controller
 {
-    //
+   
 
     public function index($id)
     {
